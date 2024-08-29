@@ -18,4 +18,6 @@
     <a href = "https://www.linkedin.com/in/abdulwaheed916/"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" alt="Linkedin" width="50" /></a>
     <a href = "https://twitter.com/abdul_916"><img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="Twitter" width="50" /></a>
     <a href = "https://join.skype.com/invite/rjtwxuEwyEgZ"><img src="https://cdn-icons-png.flaticon.com/128/3128/3128338.png" alt="Skype" width="50" /></a>
+    <a href = "https://www.fiverr.com/abdulwaheed90"><img src="https://cdn-icons-png.flaticon.com/128/732/732199.png" alt="Fiverr" width="50" /></a>
+    <a href = "https://www.upwork.com/freelancers/~011412bb987aac9fd6"><img src="https://cdn-icons-png.flaticon.com/128/15527/15527365.png" alt="Upwork" width="50" /></a>
 </div>
