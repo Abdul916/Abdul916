@@ -3,18 +3,20 @@
 
 - 🤝 Mentoring Web Development Team at **Explore Logics IT Solutions**
 
-- 💻 Frontend: **JavaScript, jQuery, HTML5, CSS3, React, Redux, React Router, Context API, Hooks, Next.js, Bootstrap, Material Ui, Tailwind CSS**
+- 💻 Frontend Development: **JavaScript, jQuery, HTML5, CSS3, React, Redux, React Router, Context API, Hooks, Next.js, Bootstrap, Material Ui, Tailwind CSS**
 
-- 💻 Backend: **PHP, Laravel, WordPress, MySQL, MongoDB, Node.js, Express.js, RESTful APIs**
+- 💻 Backend Integration: **PHP, Laravel, WordPress, MySQL, MongoDB, Node.js, Express.js, RESTful APIs**
 
-- 🖊️ Tools: **GitHub, BitBucket, NPM, Yarn, Sublime, VS Code, Chrome DevTools, Postman**
+- 🖊️ Tools **GitHub, BitBucket, NPM, Yarn, Sublime, VS Code, Chrome DevTools, Postman**
 
 - 📞 Phone No: **+92-304-4798784**
 - 📫 Email: **abdulwaheedsharif@gmail.com**
 
 <div align="center">
     <h3 align="center">Connect with me</h3>
-    <a href = "https://www.facebook.com/abdulwaheed916/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-    <a href = "https://www.linkedin.com/in/abdulwaheed916/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href = "https://twitter.com/abdul_916"><img src="https://img.icons8.com/fluent/48/000000/twitterx.png"/></a>
+    <a href = "https://www.facebook.com/abdulwaheed916/"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384005.png"/></a>
+    <a href = "https://www.linkedin.com/in/abdulwaheed916/"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384014.png"/></a>
+    <a href = "https://twitter.com/abdul_916"><img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png"/></a>
+    <a href = "https://join.skype.com/invite/rjtwxuEwyEgZ"><img src="https://cdn-icons-png.flaticon.com/128/3669/3669756.png"/></a>
+    <a href = "https://github.com/Abdul916?tab=repositories"><img src="https://cdn-icons-png.flaticon.com/128/1051/1051326.png"/></a>
 </div>
