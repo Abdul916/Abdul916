@@ -31,10 +31,6 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-076fae?style=for-the-badge&logo=jQuery&logoColor=121a27" />
     <img alt="Node JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-
-    <br>
-    <br>
-
     <img alt="Express" src="https://img.shields.io/badge/express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB" />
     <img alt="React" src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -43,10 +39,6 @@
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-3495cf?style=for-the-badge&logo=CSS3&logoColor=white" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img alt="Chakra" src="https://img.shields.io/badge/chakra ui-4ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
-
-
-    <br>
-    <br>
     <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
     <img alt="material ui" src="https://img.shields.io/badge/material ui-2091eb.svg?style=for-the-badge&logo=Mui&logoColor=white">
     <img alt="VS Code" src="https://img.shields.io/badge/VS Code-Visual Studio Code-24a4eb.svg?style=for-the-badge&logoColor=24a4eb" />
