@@ -49,14 +49,14 @@
 </div>
 <div align="center">
     <h3>Top Repositories</h3>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul916&repo=Abdul916&theme=tokyonight&hide_border=true&border_radius=5" alt="abdul916"/></a>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul916&repo=Abdul916.github.io&theme=tokyonight&hide_border=true&border_radius=5" alt="abdul916"/></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul916&repo=Abdul916&theme=buefy&border_radius=5" alt="abdul916"/></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul916&repo=Abdul916.github.io&theme=buefy&border_radius=5" alt="abdul916"/></a>
 </div>
 <div align="center">
-    <a href="#"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=abdul916&show_icons=true&theme=tokyonight&hide_border=true"/></a>
-    <a href="#"><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul916&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/></a>
+    <a href="#"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=abdul916&show_icons=true&theme=buefy"/></a>
+    <a href="#"><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul916&layout=compact&langs_count=8&theme=buefy"/></a>
     <br>
-    <a href="#"><img src="https://streak-stats.demolab.com?user=abdul916&theme=tokyonight&hide_border=true&border_radius=5&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri" alt="abdul916" /></a>
+    <a href="#"><img src="https://streak-stats.demolab.com?user=abdul916&theme=buefy&border_radius=5&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri" alt="abdul916" /></a>
 </div>
 
 <p align="left">
